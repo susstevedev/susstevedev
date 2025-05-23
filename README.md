@@ -1,4 +1,6 @@
-## Hi there 👋
+## about me
+
+Hi I'm Evan. I'm a teenager living in the United States currently working on susstevedev/gr8brik, a web-based Ldraw modeler program.
 
 <!--
 **susstevedev/susstevedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
