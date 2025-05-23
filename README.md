@@ -2,6 +2,8 @@
 
 Hi I'm Evan. I'm a teenager living in the United States currently working on susstevedev/gr8brik, a web-based Ldraw modeler program.
 
+[![stats](https://github-readme-stats.vercel.app/api?username=susstevedev)](https://github.com/susstevedev/github-readme-stats)
+
 <!--
 **susstevedev/susstevedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
