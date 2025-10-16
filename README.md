@@ -1,6 +1,6 @@
 ## about me
 
-Hi I'm Evan. I'm a teenager living in the United States currently working on susstevedev/gr8brik, a web-based Ldraw modeler program.
+https://susstevedev.github.io/
 
 ![stat](https://github-readme-stats.vercel.app/api?username=susstevedev&show_icons=true)
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=susstevedev&layout=compact&show_icons=true)
